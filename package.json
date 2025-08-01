@@ -1,7 +1,7 @@
 {
-      "name": "discord",
+      "name": "discord-alt",
       "version": "1.0.19",
-      "description": "A Electron Powered Discord Client For Older Systems",
+      "description": "A Electron Powered Discord Client For Alts",
       "main": "main.js",
       "scripts": {
         "start": "electron .",
