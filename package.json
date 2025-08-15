@@ -21,7 +21,7 @@
       },
       "build": {
         "appId": "com.magicdippyegg.discord",
-        "productName": "Discord",
+        "productName": "Discord Alt",
         "copyright": "Copyright © 2025 ${author}",
         "directories": {
           "output": "dist"
