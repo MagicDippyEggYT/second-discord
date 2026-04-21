@@ -16,8 +16,8 @@
       "author": "Kai (Magic Dippy Egg)",
       "license": "MIT",
       "devDependencies": {
-        "electron": "^22.0.0",
-        "electron-builder": "^24.0.0"
+        "electron": "^36.2.1",
+        "electron-builder": "^26.0.12"
       },
       "build": {
         "appId": "com.magicdippyegg.discord",
